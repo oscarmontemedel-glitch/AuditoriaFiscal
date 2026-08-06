@@ -1,0 +1,48 @@
+[21:57:45] ======================================================================
+[21:57:45] SAF v1.0.0
+[21:57:45] ======================================================================
+[21:57:45] 
+[21:57:45] Analizando expediente...
+[21:57:45] Excel encontrados : 10
+[21:57:45] PDF encontrados   : 14
+[21:57:45] CSV encontrados   : 0
+[21:57:45] XML encontrados   : 0
+[21:57:45] 
+[21:57:45] Inspeccionando expediente...
+[21:58:52] 
+[21:58:52] Generando reportes base...
+[21:58:55] Inventario generado correctamente.
+[21:58:55] Perfil de datos generado correctamente.
+[21:58:55] 
+[21:58:55] Construyendo Modelo Central...
+[21:58:56] Modelo Central listo.
+[21:58:56] 
+[21:58:56] Ejecutando Auditoría de Ingresos...
+[21:58:56] Auditoría de Ingresos terminada.
+[21:58:56] 
+[21:58:56] Generando Resumen CFDI...
+[21:58:56] Resumen CFDI terminado.
+[21:58:56] 
+[21:58:56] Ejecutando Auditor UUID...
+[21:58:57] Auditor UUID terminado.
+[21:58:57] 
+[21:58:57] Ejecutando Motor de Reglas...
+[21:59:20] Motor de Reglas terminado.
+[21:59:20] 
+[21:59:20] ======================================================================
+[21:59:20] RESUMEN DE EJECUCIÓN
+[21:59:20] ======================================================================
+[21:59:20] Excel procesados : 10
+[21:59:20] PDF procesados   : 14
+[21:59:20] CSV procesados   : 0
+[21:59:20] XML procesados   : 0
+[21:59:20] 
+[21:59:20] Reportes generados:
+[21:59:20]    ✓ Inventario.xlsx
+[21:59:20]    ✓ Perfil_Datos.xlsx
+[21:59:20]    ✓ Auditoria_Ingresos.xlsx
+[21:59:20]    ✓ Resumen_CFDI.xlsx
+[21:59:20]    ✓ UUID_Auditoria.xlsx
+[21:59:20]    ✓ Hallazgos.xlsx
+[21:59:20] 
+[21:59:20] Proceso terminado correctamente.
